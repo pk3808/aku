@@ -780,7 +780,7 @@ sem{
 }
 .four{
 	border-top: 4px solid;
-	border-image: linear-gradient(to right,orange, ,red,orangered,cyan greenyellow,crimson )4;
+	border-image: linear-gradient(to right,orange, red,orangered,cyan, greenyellow,crimson )4;
 
 }
 
