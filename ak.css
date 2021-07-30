@@ -588,6 +588,9 @@ h13{
 .body{
 	background-image: linear-gradient(salmon,darksalmon);
 }
+#copy{
+      color: white;
+}
 
 
 /* media querry for mobile devices */
